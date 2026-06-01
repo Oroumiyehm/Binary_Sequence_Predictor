@@ -1,7 +1,7 @@
 # Binary_Sequence_Predictor
 A binary sequence pattern recognition and forecasting engine. Scores recurring patterns by recency and consistency, and predicts the next value in any binary time series.
 
-The current project is designed around daily BTC/USDT candle data, but the logic can be reused for any binary time series.
+The current project is designed around daily BTC/USDT candle data (RGP / Red-Green Prediction), but the logic can be reused for any binary time series.
 
 ---
 
