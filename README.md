@@ -1,10 +1,6 @@
 # Binary_Sequence_Predictor
 A binary sequence pattern recognition and forecasting engine. Scores recurring patterns by recency and consistency, and predicts the next value in any binary time series.
 
-# Binary_Sequence_Predictor
-
-A binary sequence pattern recognition and forecasting engine. It converts candle data into a binary sequence, finds recurring binary patterns, scores them by recency, repetition, and consistency, then predicts the next binary value using weighted pattern votes.
-
 The current project is designed around daily BTC/USDT candle data, but the logic can be reused for any binary time series.
 
 ---
